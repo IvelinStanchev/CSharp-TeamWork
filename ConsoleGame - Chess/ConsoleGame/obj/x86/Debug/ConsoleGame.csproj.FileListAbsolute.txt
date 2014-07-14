@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\obj\x86\Debug\ConsoleGame.exe
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\obj\x86\Debug\ConsoleGame.pdb

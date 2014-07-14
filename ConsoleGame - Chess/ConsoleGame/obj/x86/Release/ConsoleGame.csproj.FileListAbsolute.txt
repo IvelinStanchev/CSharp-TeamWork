@@ -1,0 +1,7 @@
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\bin\Release\ConsoleGame.exe
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\bin\Release\ConsoleGame.pdb
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\obj\x86\Release\ConsoleGame.exe
+C:\Downloads\Telerik\TeamWork\ConsoleGame\ConsoleGame\obj\x86\Release\ConsoleGame.pdb
+D:\GitHub\CSharpTeamWork\ConsoleGame\ConsoleGame\obj\x86\Release\ConsoleGame.exe
+D:\GitHub\CSharpTeamWork\ConsoleGame\ConsoleGame\obj\x86\Release\ConsoleGame.pdb
